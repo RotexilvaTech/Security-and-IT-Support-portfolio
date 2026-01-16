@@ -1,3 +1,5 @@
+![Rotimi_Ogunbiyi_compressed](https://github.com/user-attachments/assets/019061f4-eec6-4c2f-88a5-8f5820707df9)
+
 # Hi, I'm Rotimi Ogunbiyi
 
 ## Cybersecurity & Technical Support Professional
