@@ -102,6 +102,11 @@ I am actively improving my technical and security skills, working toward becomin
 - IT Support / Security Support
 - Junior Security Analyst
 
+## 📂 Explore My Projects
+- [Windows Security Hardening](link-to-repo)
+- [Network Troubleshooting Lab](link-to-repo)
+- [Technical Support & Hardware Repair](link-to-repo)
+
 ## Contact
 - GitHub: https://github.com/RotexilvaTech
 - LinkedIn: www.linkedin.com/in/rotimi-elijah-ogunbiyi-b741751aa
