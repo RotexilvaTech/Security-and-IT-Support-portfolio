@@ -105,7 +105,7 @@ I am actively improving my technical and security skills, working toward becomin
 ## 📂 Explore My Projects
 - [Windows Security Hardening](link-to-repo)
 - [Network Troubleshooting Lab](link-to-repo)
-- [Technical Support & Hardware Repair](link-to-repo)
+- [Technical Support & Hardware Repair](README.md)
 
 ## Contact
 - GitHub: https://github.com/RotexilvaTech
