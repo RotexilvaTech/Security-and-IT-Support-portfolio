@@ -2,14 +2,14 @@
 
 # Hi, I'm Rotimi Ogunbiyi
 
-## Cybersecurity & Technical Support Professional
+## Cybersecurity & IT Support Professional
 
-I am an entry-level Cybersecurity Analyst with a strong foundation and hands-on experience in
+I am a Cybersecurity Analyst with a strong foundation and hands-on experience in
 technical support, system troubleshooting, networking fundamentals, and
 security best practices.
 
-I am passionate about getting computers and gadgets up and running efficiently,
-fixing technical issues, keeping systems in check to ensure optimal performance while reducing security risks. I also enjoy promoting best practices for proper computer and device usage to improve performance, reliability, security and user experience.
+I am passionate about getting computers and gadgets up and running efficiently, fixing technical issues, keeping systems in check to ensure optimal performance while reducing security risks. 
+I also enjoy promoting best practices for proper computer and device usage to improve performance, reliability, security and user experience.
 
 I am actively improving my technical and security skills, working toward becoming a SOC professional, with a strong interest in protecting systems, threat detection, log analysis, incident response, and continuous monitoring of systems and networks.
 
@@ -69,7 +69,7 @@ I am actively improving my technical and security skills, working toward becomin
 - Tools used: Windows Defender, Task Manager, Event Viewer.
 
 ### Network Troubleshooting Lab
--  Set up a local network, crimped cables, and configured routers/switches.
+- Set up a local network, crimped cables, and configured routers/switches.
 - Diagnosed and resolved connectivity issues (IP, DNS, DHCP conflicts).
 - Tools used: Windows/Linux terminals (`ipconfig`, `ping`, and `tracert`.), physical cabling tools.
 
@@ -94,19 +94,21 @@ I am actively improving my technical and security skills, working toward becomin
 ## CERTIFICATIONS & LEARNING
 - Google Cybersecurity Professional Course
 - Actively learning cybersecurity concepts and hands-on labs
-- CC Certificate in view
+- CC Certificate Loading.....
 - ISC2 Member
+- Introduction to Critical Infrastruction Protection(ICIP) - Learning at OPSWAT Academy
 
 ## Career Focus
-- SOC Analyst (Entry-Level)
+- SOC Analyst
 - IT Support / Security Support
-- Junior Security Analyst
+- Cybersecurity Analyst
 
 ## 📂 Explore My Projects
-- [Windows Security Hardening](link-to-repo)
-- [Network Troubleshooting Lab](link-to-repo)
+- [Windows Security Hardening]()
+- [Network Troubleshooting Lab]()
 - [Technical Support & Hardware Repair](https://github.com/RotexilvaTech/technical-support-case-studies)
 
 ## Contact
 - GitHub: https://github.com/RotexilvaTech
 - LinkedIn: www.linkedin.com/in/rotimi-elijah-ogunbiyi-b741751aa
+- Email: rotimi.ogunbiyi007@gmail.com
