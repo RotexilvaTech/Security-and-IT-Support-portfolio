@@ -107,7 +107,7 @@ I am actively improving my technical and security skills, working toward becomin
 - [Windows Security Hardening]()
 - [Network Troubleshooting Lab]()
 - [Technical Support & Hardware Repair](https://github.com/RotexilvaTech/technical-support-case-studies)
-- [ALX System Engineering Devops Classworks] (https://github.com/RotexilvaTech/alx-system_engineering-devops)
+- [ALX System Engineering Devops Classworks](https://github.com/RotexilvaTech/alx-system_engineering-devops)
 ## Contact
 - GitHub: https://github.com/RotexilvaTech
 - LinkedIn: www.linkedin.com/in/rotimi-elijah-ogunbiyi-b741751aa
